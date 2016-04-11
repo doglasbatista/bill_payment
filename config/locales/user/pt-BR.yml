@@ -1,0 +1,4 @@
+en:
+  user:
+    raise:
+      not_have_enough: "The user doesnt has credit"
