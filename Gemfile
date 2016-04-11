@@ -15,7 +15,7 @@ group :development, :test do
   gem 'sqlite3'
   gem 'byebug'
   gem 'rspec-rails'
-  gem 'shoulda-matchers'
+  gem 'shoulda-matchers', ' 2.8.0'
   gem 'database_cleaner'
   gem 'factory_girl_rails'
   gem 'faker'
