@@ -1,0 +1,4 @@
+en:
+  bill:
+    raise:
+      already_paid: 'The bill is already paid'
